@@ -1,15 +1,15 @@
 <scheme name="oblivion" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2020-05-30T12:35:08</property>
+    <property name="created">2021-01-18T12:09:20</property>
     <property name="ide">Python</property>
-    <property name="ideVersion">2020.1.2.0.0</property>
-    <property name="modified">2020-05-30T12:35:20</property>
+    <property name="ideVersion">2020.3.2.0.0</property>
+    <property name="modified">2021-01-18T12:09:21</property>
     <property name="originalScheme">_@user_oblivion</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.0" />
+  <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Courier 10 Pitch" />
+  <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
   <attributes>
     <option name="DEFAULT_BRACES">
       <value>
